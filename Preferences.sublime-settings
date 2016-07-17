@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_tangerine": true,
+	"theme_bar": true,
+	"theme_dirty_materialized": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_line": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_selected_transparent": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_lg": true
+}
