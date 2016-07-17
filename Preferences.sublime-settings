@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -15,5 +16,6 @@
 	"theme_tab_line_size_lg": true,
 	"theme_tab_selected_transparent": true,
 	"theme_tab_selected_underlined": true,
-	"theme_tab_size_lg": true
+	"theme_tab_size_lg": true,
+	"trailing_spaces_trim_on_save": true
 }
