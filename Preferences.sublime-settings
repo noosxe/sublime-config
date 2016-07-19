@@ -5,6 +5,7 @@
 	[
 		"Vintage"
 	],
+	"preview_on_click": false,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_accent_tangerine": true,
 	"theme_bar": true,
@@ -18,6 +19,5 @@
 	"theme_tab_selected_underlined": true,
 	"theme_tab_size_lg": true,
 	"trailing_spaces_include_current_line": false,
-	"trailing_spaces_trim_on_save": true,
-	"preview_on_click": false
+	"trailing_spaces_trim_on_save": true
 }
