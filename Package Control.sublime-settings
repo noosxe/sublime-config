@@ -2,12 +2,12 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BufferScroll"
 	],
 	"installed_packages":
 	[
 		"Boxy Theme",
 		"BracketHighlighter",
-		"BufferScroll",
 		"Git",
 		"GitGutter",
 		"HexViewer",
