@@ -1,24 +1,24 @@
 {
-  "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-  "ensure_newline_at_eof_on_save": true,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "preview_on_click": false,
-  "theme": "Boxy Tomorrow.sublime-theme",
-  "theme_accent_tangerine": true,
-  "theme_bar": true,
-  "theme_dirty_materialized": true,
-  "theme_scrollbar_colored": true,
-  "theme_scrollbar_line": true,
-  "theme_sidebar_folder_mono": true,
-  "theme_tab_arrows_hidden": true,
-  "theme_tab_line_size_lg": true,
-  "theme_tab_selected_transparent": true,
-  "theme_tab_selected_underlined": true,
-  "theme_tab_size_lg": true,
-  "trailing_spaces_include_current_line": false,
-  "trailing_spaces_trim_on_save": true,
-  "update_check": false
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"preview_on_click": false,
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_accent_tangerine": true,
+	"theme_bar": true,
+	"theme_dirty_materialized": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_line": true,
+	"theme_sidebar_folder_mono": true,
+	"theme_tab_arrows_hidden": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_selected_transparent": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_lg": true,
+	"trailing_spaces_include_current_line": false,
+	"trailing_spaces_trim_on_save": true,
+	"update_check": false
 }

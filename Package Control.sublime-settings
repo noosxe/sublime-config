@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"BufferScroll"
 	],
 	"installed_packages":
 	[
@@ -10,6 +9,7 @@
 		"BracketHighlighter",
 		"Git",
 		"GitGutter",
+		"Gradle_Language",
 		"HexViewer",
 		"Jade",
 		"JSX",
