@@ -1,11 +1,16 @@
 {
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"preview_on_click": false,
+	"rulers":
+	[
+		100
+	],
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_accent_tangerine": true,
 	"theme_bar": true,
@@ -20,8 +25,5 @@
 	"theme_tab_size_lg": true,
 	"trailing_spaces_include_current_line": false,
 	"trailing_spaces_trim_on_save": true,
-	"update_check": false,
-	"rulers": [100],
-	"highlight_line": true,
-	"ensure_newline_at_eof_on_save": true
+	"update_check": false
 }
