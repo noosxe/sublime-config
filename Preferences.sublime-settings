@@ -25,5 +25,6 @@
 	"theme_tab_size_lg": true,
 	"trailing_spaces_include_current_line": false,
 	"trailing_spaces_trim_on_save": true,
-	"update_check": false
+	"update_check": false,
+	"word_wrap": true
 }
