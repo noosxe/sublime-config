@@ -19,6 +19,8 @@
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"TrailingSpaces"
 	]
 }
